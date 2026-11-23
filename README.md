@@ -1,0 +1,2 @@
+# Davomat
+Davomat qilamiz
